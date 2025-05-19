@@ -1,3 +1,6 @@
+# プロジェクトルートに移動して……
+source .venv/bin/activate   # ← bash / zsh
+
 ## Live Site  
 https://anime-location.com
 
