@@ -1,13 +1,28 @@
 ---
-// index.astro
+// src/pages/index.astro
+import Layout from '../layouts/Layout.astro';  // ←まだ無ければ削除してOK
 ---
+
 <html lang="en">
   <head>
-    <title>Anime Location – Pilgrimage Planner</title>
+    <title>Anime Location – Plan Your Pilgrimage in Japan</title>
     <meta charset="UTF-8" />
+    <meta name="description" content="Maps, routes, and hotel deals for every anime pilgrimage spot in Japan.">
   </head>
-  <body>
-    <h1>Anime Location</h1>
-    <p>Plan your next anime pilgrimage in Japan—maps, routes, and the best hotel deals.</p>
+
+  <body class="max-w-screen-md mx-auto px-4 py-8 font-sans">
+    <h1 class="text-3xl font-bold mb-4">Anime Location</h1>
+
+    <p class="mb-2">
+      Welcome! This site lets overseas anime fans discover real-world locations
+      featured in Japanese anime & manga and <strong>book nearby hotels in one click</strong>.
+    </p>
+
+    <p class="mb-6">
+      We’re in public beta—expect weekly updates as we add more series, maps, and
+      automatic price comparisons via our partners Booking.com and Klook.
+    </p>
+
+    <a href="/about" class="text-blue-600 underline">About this project →</a>
   </body>
 </html>
