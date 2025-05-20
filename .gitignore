@@ -36,3 +36,6 @@ __pycache__/
 
 # ---- generated data ----
 data/places.json
+
+# sample
+navi.html
