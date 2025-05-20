@@ -28,7 +28,7 @@ jobs:
       # --- スクレイパー実行 ---
       - name: Run scrape.py
         env:
-          GOOGLE_MAPS_KEY: ${{ secrets.MAPS_API_KEY }}
+          GOOGLE_MAPS_KEY: ${{ secrets.GOOGLE_MAPS_KEY }}
         run: |
           python scripts/scrape.py
 
