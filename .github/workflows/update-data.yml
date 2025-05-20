@@ -1,6 +1,9 @@
 # .github/workflows/update-data.yml
 name: Update anime spots JSON
 
+permissions:            # ← ✨ 追加
+  contents: write 
+
 on:
   workflow_dispatch:      # 手動実行もできる
   schedule:
@@ -13,6 +16,8 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:                       # ← ✨ 追記（token を明示）
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       # --- Python セットアップ & 依存インストール ---
       - name: Set up Python
