@@ -1,0 +1,33 @@
+---
+import { onMount } from 'astro/client';
+import type { Spot } from '../types';
+
+const { spots } = Astro.props;          // <Map spots={…} /> と受け取る
+---
+
+<div id="map" class="h-screen w-full"></div>
+
+<style global>
+  @import "leaflet/dist/leaflet.css";
+
+  #map { height: 100vh; }
+</style>
+
+<script is:inline>
+  import L from 'leaflet';
+
+  export default function initMap(spots) {
+    onMount(() => {
+      const map = L.map('map').setView([35.681236,139.767125], 5); // 日本中心
+      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{
+        attribution:'© OpenStreetMap'
+      }).addTo(map);
+
+      spots.forEach(s => {
+        L.marker([s.lat, s.lng])
+          .addTo(map)
+          .bindPopup(`<strong>${s.title}</strong><br>${s.pref}`);
+      });
+    });
+  }
+</script>
