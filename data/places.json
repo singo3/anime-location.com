@@ -536,12 +536,12 @@
     "url": "https://animetourism88.com/en/places/attack-on-titan-in-hita-museum/"
   },
   {
-    "slug": "goto-no-kumo-nizo-yamamoto-museum",
-    "title": "Goto-no-Kumo Nizo Yamamoto Museum",
+    "slug": "clouds-over-goto-yamamoto-nizo-art-museum",
+    "title": "Clouds over Goto YAMAMOTo NIZO ART MUSEUM",
     "pref": "九州•沖縄",
     "lat": 32.59,
     "lng": 130.8,
-    "url": "https://animetourism88.com/en/places/goto-no-kumo-nizo-yamamoto-museum/"
+    "url": "https://animetourism88.com/en/places/clouds-over-goto-yamamoto-nizo-art-museum/"
   },
   {
     "slug": "kitakyushu-manga-museum",
@@ -1403,8 +1403,8 @@
     "slug": "yokote-city-masuda-manga-museum",
     "title": "Yokote City Masuda Manga Museum",
     "pref": "北海道•東北",
-    "lat": 39.202593,
-    "lng": 140.547979,
+    "lat": 39.313828,
+    "lng": 140.566588,
     "url": "https://animetourism88.com/en/places/yokote-city-masuda-manga-museum/"
   },
   {
@@ -1490,9 +1490,9 @@
   {
     "slug": "rahuraihu-suhasuta",
     "title": "ラブライブ！スーパースター!!",
-    "pref": "関東",
-    "lat": 36.459867,
-    "lng": 139.691137,
+    "pref": "東京23区",
+    "lat": 35.668467,
+    "lng": 139.706732,
     "url": "https://animetourism88.com/places/%e3%83%a9%e3%83%96%e3%83%a9%e3%82%a4%e3%83%96%e3%82%b9%e3%83%bc%e3%83%91%e3%83%bc%e3%82%b9%e3%82%bf%e3%83%bc-2/"
   },
   {
@@ -1626,9 +1626,9 @@
   {
     "slug": "shui-mu-mankanosheng-maretajie",
     "title": "水木マンガの生まれた街",
-    "pref": "関東",
-    "lat": 35.917692,
-    "lng": 139.889291,
+    "pref": "東京23区",
+    "lat": 35.709026,
+    "lng": 139.731992,
     "url": "https://animetourism88.com/places/%e6%b0%b4%e6%9c%a8%e3%83%9e%e3%83%b3%e3%82%ac%e3%81%ae%e7%94%9f%e3%81%be%e3%82%8c%e3%81%9f%e8%a1%97/"
   },
   {
@@ -1810,9 +1810,9 @@
   {
     "slug": "toaruke-xue-nochao-dian-ci-pao",
     "title": "とある科学の超電磁砲",
-    "pref": "関東",
-    "lat": 36.459867,
-    "lng": 139.691137,
+    "pref": "東京23区",
+    "lat": 35.709026,
+    "lng": 139.731992,
     "url": "https://animetourism88.com/places/%e3%81%a8%e3%81%82%e3%82%8b%e7%a7%91%e5%ad%a6%e3%81%ae%e8%b6%85%e9%9b%bb%e7%a3%81%e7%a0%b2/"
   },
   {
@@ -1986,9 +1986,9 @@
   {
     "slug": "sanriohiyuroranto",
     "title": "サンリオピューロランド",
-    "pref": "関東",
-    "lat": 35.624512,
-    "lng": 139.429293,
+    "pref": "東京23区",
+    "lat": 35.709026,
+    "lng": 139.731992,
     "url": "https://animetourism88.com/places/%e3%82%b5%e3%83%b3%e3%83%aa%e3%82%aa%e3%83%94%e3%83%a5%e3%83%bc%e3%83%ad%e3%83%a9%e3%83%b3%e3%83%89/"
   },
   {
