@@ -171,8 +171,8 @@
     "slug": "fureru",
     "title": "FURERU",
     "pref": "東京23区",
-    "lat": 35.709026,
-    "lng": 139.731992,
+    "lat": 35.712458,
+    "lng": 139.710045,
     "url": "https://animetourism88.com/en/places/fureru_draft/"
   },
   {
@@ -1203,8 +1203,8 @@
     "slug": "sword-art-online-the-movie-ordinal-scale",
     "title": "SWORD ART ONLINE THE MOVIE -Ordinal Scale-",
     "pref": "東京23区",
-    "lat": 35.710432,
-    "lng": 139.711741,
+    "lat": 35.709026,
+    "lng": 139.731992,
     "url": "https://animetourism88.com/en/places/sword-art-online-the-movie-ordinal-scale/"
   },
   {
@@ -1411,8 +1411,8 @@
     "slug": "yokote-city-masuda-manga-museum",
     "title": "Yokote City Masuda Manga Museum",
     "pref": "北海道•東北",
-    "lat": 39.202593,
-    "lng": 140.547979,
+    "lat": 39.313828,
+    "lng": 140.566588,
     "url": "https://animetourism88.com/en/places/yokote-city-masuda-manga-museum/"
   },
   {
@@ -1627,8 +1627,8 @@
     "slug": "shui-mu-sikeruroto",
     "title": "水木しげるロード",
     "pref": "中国•四国",
-    "lat": 33.743224,
-    "lng": 133.637531,
+    "lat": 34.826374,
+    "lng": 133.070314,
     "url": "https://animetourism88.com/places/%e6%b0%b4%e6%9c%a8%e3%81%97%e3%81%92%e3%82%8b%e3%83%ad%e3%83%bc%e3%83%89/"
   },
   {
@@ -2059,8 +2059,8 @@
     "slug": "kekekenogui-tai-lang-dong-jing-du-diao-bu-shi",
     "title": "ゲゲゲの鬼太郎（東京都 調布市）",
     "pref": "関東",
-    "lat": 35.653912,
-    "lng": 139.544737,
+    "lat": 35.650611,
+    "lng": 139.540721,
     "url": "https://animetourism88.com/places/%e3%82%b2%e3%82%b2%e3%82%b2%e3%81%ae%e9%ac%bc%e5%a4%aa%e9%83%8e-%e6%9d%b1%e4%ba%ac%e9%83%bd-%e8%aa%bf%e5%b8%83%e5%b8%82/"
   },
   {
@@ -2430,6 +2430,14 @@
     "lat": 34.641339,
     "lng": 135.562902,
     "url": "https://animetourism88.com/places/%e5%87%aa%e3%81%ae%e3%81%82%e3%81%99%e3%81%8b%e3%82%89/"
+  },
+  {
+    "slug": "ookamikotomonoyu-toxue",
+    "title": "おおかみこどもの雨と雪",
+    "pref": "中部",
+    "lat": 36.204824,
+    "lng": 138.252924,
+    "url": "https://animetourism88.com/places/%e3%81%8a%e3%81%8a%e3%81%8b%e3%81%bf%e3%81%93%e3%81%a9%e3%82%82%e3%81%ae%e9%9b%a8%e3%81%a8%e9%9b%aa/"
   },
   {
     "slug": "ju-chang-ban-sotoatoonrain-oteinarusukeru",
