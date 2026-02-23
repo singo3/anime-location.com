@@ -1,5 +1,325 @@
 [
   {
+    "slug": "ri-haguo-kiretofan-umasi",
+    "title": "日々は過ぎれど飯うまし",
+    "pref": "東京23区",
+    "lat": 35.694181,
+    "lng": 139.812574,
+    "url": "https://animetourism88.com/places/%e6%97%a5%e3%80%85%e3%81%af%e9%81%8e%e3%81%8e%e3%82%8c%e3%81%a9%e9%a3%af%e3%81%86%e3%81%be%e3%81%97/"
+  },
+  {
+    "slug": "qian-sui-kunharamuneping-nonaka",
+    "title": "千歳くんはラムネ瓶のなか",
+    "pref": "中部",
+    "lat": 34.969184,
+    "lng": 136.625288,
+    "url": "https://animetourism88.com/places/%e5%8d%83%e6%ad%b3%e3%81%8f%e3%82%93%e3%81%af%e3%83%a9%e3%83%a0%e3%83%8d%e7%93%b6%e3%81%ae%e3%81%aa%e3%81%8b/"
+  },
+  {
+    "slug": "four-rhythm-across-the-blue",
+    "title": "FOUR RHYTHM ACROSS THE BLUE",
+    "pref": "九州•沖縄",
+    "lat": 32.59,
+    "lng": 130.8,
+    "url": "https://animetourism88.com/en/places/four-rhythm-across-the-blue-2/"
+  },
+  {
+    "slug": "ni-zi-sao-bing-wei-man-hua-kiyarari",
+    "title": "尼子騒兵衛漫画ギャラリー",
+    "pref": "近畿",
+    "lat": 34.717052,
+    "lng": 135.415884,
+    "url": "https://animetourism88.com/places/%e5%b0%bc%e5%ad%90%e9%a8%92%e5%85%b5%e8%a1%9b%e6%bc%ab%e7%94%bb%e3%82%ae%e3%83%a3%e3%83%a9%e3%83%aa%e3%83%bc/"
+  },
+  {
+    "slug": "ju-chang-ban-nonnonhiyori-hakesiyon",
+    "title": "劇場版 のんのんびより ばけーしょん",
+    "pref": "九州•沖縄",
+    "lat": 32.59,
+    "lng": 130.8,
+    "url": "https://animetourism88.com/places/%e5%8a%87%e5%a0%b4%e7%89%88-%e3%81%ae%e3%82%93%e3%81%ae%e3%82%93%e3%81%b3%e3%82%88%e3%82%8a-%e3%81%b0%e3%81%91%e3%83%bc%e3%81%97%e3%82%87%e3%82%93/"
+  },
+  {
+    "slug": "umaniang-sintererakurei",
+    "title": "ウマ娘 シンデレラグレイ",
+    "pref": "中部",
+    "lat": 34.969184,
+    "lng": 136.625288,
+    "url": "https://animetourism88.com/places/%e3%82%a6%e3%83%9e%e5%a8%98-%e3%82%b7%e3%83%b3%e3%83%87%e3%83%ac%e3%83%a9%e3%82%b0%e3%83%ac%e3%82%a4/"
+  },
+  {
+    "slug": "tou-wen-zi-d",
+    "title": "頭文字Ｄ",
+    "pref": "関東",
+    "lat": 36.459867,
+    "lng": 139.691137,
+    "url": "https://animetourism88.com/places/%e9%a0%ad%e6%96%87%e5%ad%97%ef%bd%84/"
+  },
+  {
+    "slug": "mfkosuto",
+    "title": "MFゴースト",
+    "pref": "関東",
+    "lat": 36.459867,
+    "lng": 139.691137,
+    "url": "https://animetourism88.com/places/mf%e3%82%b4%e3%83%bc%e3%82%b9%e3%83%88/"
+  },
+  {
+    "slug": "an-nomei-kakonnanike-ai-iwakekanai",
+    "title": "俺の妹がこんなに可愛いわけがない",
+    "pref": "関東",
+    "lat": 36.459867,
+    "lng": 139.691137,
+    "url": "https://animetourism88.com/places/%e4%bf%ba%e3%81%ae%e5%a6%b9%e3%81%8c%e3%81%93%e3%82%93%e3%81%aa%e3%81%ab%e5%8f%af%e6%84%9b%e3%81%84%e3%82%8f%e3%81%91%e3%81%8c%e3%81%aa%e3%81%84/"
+  },
+  {
+    "slug": "satulu-thats-journey",
+    "title": "ざつ旅-That’s Journey-",
+    "pref": "関東",
+    "lat": 36.459867,
+    "lng": 139.691137,
+    "url": "https://animetourism88.com/places/%e3%81%96%e3%81%a4%e6%97%85-thats-journey-13/"
+  },
+  {
+    "slug": "satulu-thats-journey",
+    "title": "ざつ旅-That’s Journey-",
+    "pref": "中国•四国",
+    "lat": 33.743224,
+    "lng": 133.637531,
+    "url": "https://animetourism88.com/places/%e3%81%96%e3%81%a4%e6%97%85-thats-journey-12/"
+  },
+  {
+    "slug": "satulu-thats-journey",
+    "title": "ざつ旅-That’s Journey-",
+    "pref": "東京23区",
+    "lat": 35.709026,
+    "lng": 139.731992,
+    "url": "https://animetourism88.com/places/%e3%81%96%e3%81%a4%e6%97%85-thats-journey-11/"
+  },
+  {
+    "slug": "satulu-thats-journey",
+    "title": "ざつ旅-That’s Journey-",
+    "pref": "北海道•東北",
+    "lat": 39.136212,
+    "lng": 141.149986,
+    "url": "https://animetourism88.com/places/%e3%81%96%e3%81%a4%e6%97%85-thats-journey-10/"
+  },
+  {
+    "slug": "satulu-thats-journey",
+    "title": "ざつ旅-That’s Journey-",
+    "pref": "北海道•東北",
+    "lat": 39.136212,
+    "lng": 141.149986,
+    "url": "https://animetourism88.com/places/%e3%81%96%e3%81%a4%e6%97%85-thats-journey-9/"
+  },
+  {
+    "slug": "satulu-thats-journey",
+    "title": "ざつ旅-That’s Journey-",
+    "pref": "中国•四国",
+    "lat": 33.743224,
+    "lng": 133.637531,
+    "url": "https://animetourism88.com/places/%e3%81%96%e3%81%a4%e6%97%85-thats-journey-8/"
+  },
+  {
+    "slug": "satulu-thats-journey",
+    "title": "ざつ旅-That’s Journey-",
+    "pref": "近畿",
+    "lat": 34.641339,
+    "lng": 135.562902,
+    "url": "https://animetourism88.com/places/%e3%81%96%e3%81%a4%e6%97%85-thats-journey-7/"
+  },
+  {
+    "slug": "satulu-thats-journey",
+    "title": "ざつ旅-That’s Journey-",
+    "pref": "近畿",
+    "lat": 34.641339,
+    "lng": 135.562902,
+    "url": "https://animetourism88.com/places/%e3%81%96%e3%81%a4%e6%97%85-thats-journey-6/"
+  },
+  {
+    "slug": "satulu-that-s-journey",
+    "title": "ざつ旅-That&#8217;s Journey-",
+    "pref": "中部",
+    "lat": 34.969184,
+    "lng": 136.625288,
+    "url": "https://animetourism88.com/places/%e3%81%96%e3%81%a4%e6%97%85-thats-journey-5/"
+  },
+  {
+    "slug": "satulu-that-s-journey",
+    "title": "ざつ旅-That&#8217;s Journey-",
+    "pref": "中部",
+    "lat": 34.969184,
+    "lng": 136.625288,
+    "url": "https://animetourism88.com/places/%e3%81%96%e3%81%a4%e6%97%85-thats-journey-4/"
+  },
+  {
+    "slug": "satulu-that-s-journey",
+    "title": "ざつ旅-That&#8217;s Journey-",
+    "pref": "北海道•東北",
+    "lat": 39.136212,
+    "lng": 141.149986,
+    "url": "https://animetourism88.com/places/%e3%81%96%e3%81%a4%e6%97%85-thats-journey-3/"
+  },
+  {
+    "slug": "satulu-that-s-journey",
+    "title": "ざつ旅-That&#8217;s Journey-",
+    "pref": "中国•四国",
+    "lat": 33.743224,
+    "lng": 133.637531,
+    "url": "https://animetourism88.com/places/%e3%81%96%e3%81%a4%e6%97%85-thats-journey-2/"
+  },
+  {
+    "slug": "satulu-that-s-journey",
+    "title": "ざつ旅-That&#8217;s Journey-",
+    "pref": "北海道•東北",
+    "lat": 39.136212,
+    "lng": 141.149986,
+    "url": "https://animetourism88.com/places/%e3%81%96%e3%81%a4%e6%97%85-thats-journey/"
+  },
+  {
+    "slug": "cang-qiong-nohuahuna-sirisu",
+    "title": "『蒼穹のファフナー』シリーズ",
+    "pref": "中国•四国",
+    "lat": 33.743224,
+    "lng": 133.637531,
+    "url": "https://animetourism88.com/places/%e3%80%8e%e8%92%bc%e7%a9%b9%e3%81%ae%e3%83%95%e3%82%a1%e3%83%95%e3%83%8a%e3%83%bc%e3%80%8f%e3%82%b7%e3%83%aa%e3%83%bc%e3%82%ba/"
+  },
+  {
+    "slug": "summer-pockets",
+    "title": "Summer Pockets",
+    "pref": "中国•四国",
+    "lat": 33.743224,
+    "lng": 133.637531,
+    "url": "https://animetourism88.com/places/summer-pockets-2/"
+  },
+  {
+    "slug": "summer-pockets",
+    "title": "Summer Pockets",
+    "pref": "中国•四国",
+    "lat": 33.743224,
+    "lng": 133.637531,
+    "url": "https://animetourism88.com/places/summer-pockets/"
+  },
+  {
+    "slug": "kuranhuru",
+    "title": "ぐらんぶる",
+    "pref": "中部",
+    "lat": 34.969184,
+    "lng": 136.625288,
+    "url": "https://animetourism88.com/places/%e3%81%90%e3%82%89%e3%82%93%e3%81%b6%e3%82%8b/"
+  },
+  {
+    "slug": "si-yue-hajun-noxu",
+    "title": "四月は君の嘘",
+    "pref": "東京23区",
+    "lat": 35.709026,
+    "lng": 139.731992,
+    "url": "https://animetourism88.com/places/%e5%9b%9b%e6%9c%88%e3%81%af%e5%90%9b%e3%81%ae%e5%98%98/"
+  },
+  {
+    "slug": "xun-ruhua-halin-toxiao-ku",
+    "title": "薫る花は凛と咲く",
+    "pref": "東京23区",
+    "lat": 35.709026,
+    "lng": 139.731992,
+    "url": "https://animetourism88.com/places/%e8%96%ab%e3%82%8b%e8%8a%b1%e3%81%af%e5%87%9b%e3%81%a8%e5%92%b2%e3%81%8f/"
+  },
+  {
+    "slug": "xun-ruhua-halin-toxiao-ku",
+    "title": "薫る花は凛と咲く",
+    "pref": "関東",
+    "lat": 36.459867,
+    "lng": 139.691137,
+    "url": "https://animetourism88.com/places/%e8%96%ab%e3%82%8b%e8%8a%b1%e3%81%af%e5%87%9b%e3%81%a8%e5%92%b2%e3%81%8f-2/"
+  },
+  {
+    "slug": "turkey",
+    "title": "Turkey!",
+    "pref": "中部",
+    "lat": 38.963745,
+    "lng": 35.243322,
+    "url": "https://animetourism88.com/places/turkey/"
+  },
+  {
+    "slug": "tvanime-jun-hafang-ke-hou-insomunia",
+    "title": "TVアニメ「君は放課後インソムニア」",
+    "pref": "中部",
+    "lat": 34.969184,
+    "lng": 136.625288,
+    "url": "https://animetourism88.com/places/tv%e3%82%a2%e3%83%8b%e3%83%a1%e3%80%8c%e5%90%9b%e3%81%af%e6%94%be%e8%aa%b2%e5%be%8c%e3%82%a4%e3%83%b3%e3%82%bd%e3%83%a0%e3%83%8b%e3%82%a2%e3%80%8d/"
+  },
+  {
+    "slug": "utakoehamiruhuiyu",
+    "title": "うたごえはミルフィーユ",
+    "pref": "東京23区",
+    "lat": 35.709026,
+    "lng": 139.731992,
+    "url": "https://animetourism88.com/places/%e3%81%86%e3%81%9f%e3%81%94%e3%81%88%e3%81%af%e3%83%9f%e3%83%ab%e3%83%95%e3%82%a3%e3%83%bc%e3%83%a6/"
+  },
+  {
+    "slug": "si-wocan-hetai-hitotenasi",
+    "title": "私を喰べたい、ひとでなし",
+    "pref": "中国•四国",
+    "lat": 33.743224,
+    "lng": 133.637531,
+    "url": "https://animetourism88.com/places/%e7%a7%81%e3%82%92%e5%96%b0%e3%81%b9%e3%81%9f%e3%81%84%e3%80%81%e3%81%b2%e3%81%a8%e3%81%a7%e3%81%aa%e3%81%97/"
+  },
+  {
+    "slug": "nan-nu-noyou-qing-hacheng-li-suru-iya-sinaitu",
+    "title": "男女の友情は成立する?（いや、しないっ!!）",
+    "pref": "九州•沖縄",
+    "lat": 32.59,
+    "lng": 130.8,
+    "url": "https://animetourism88.com/places/%e7%94%b7%e5%a5%b3%e3%81%ae%e5%8f%8b%e6%83%85%e3%81%af%e6%88%90%e7%ab%8b%e3%81%99%e3%82%8b%ef%bc%88%e3%81%84%e3%82%84%e3%80%81%e3%81%97%e3%81%aa%e3%81%84%e3%81%a3%ef%bc%89/"
+  },
+  {
+    "slug": "rahuraihu-suhasuta",
+    "title": "ラブライブ！スーパースター!!",
+    "pref": "関東",
+    "lat": 36.459867,
+    "lng": 139.691137,
+    "url": "https://animetourism88.com/places/%e3%83%a9%e3%83%96%e3%83%a9%e3%82%a4%e3%83%96%ef%bc%81%e3%82%b9%e3%83%bc%e3%83%91%e3%83%bc%e3%82%b9%e3%82%bf%e3%83%bc/"
+  },
+  {
+    "slug": "qian-qiao-uitutisu",
+    "title": "前橋ウィッチーズ",
+    "pref": "関東",
+    "lat": 36.393892,
+    "lng": 139.07246,
+    "url": "https://animetourism88.com/places/%e5%89%8d%e6%a9%8b%e3%82%a6%e3%82%a3%e3%83%83%e3%83%81%e3%83%bc%e3%82%ba/"
+  },
+  {
+    "slug": "chong-nawa-tehao-kininatutazi-kafang-yan-sukiteturasukiru",
+    "title": "沖縄で好きになった子が方言すぎてツラすぎる",
+    "pref": "九州•沖縄",
+    "lat": 32.59,
+    "lng": 130.8,
+    "url": "https://animetourism88.com/places/%e6%b2%96%e7%b8%84%e3%81%a7%e5%a5%bd%e3%81%8d%e3%81%ab%e3%81%aa%e3%81%a3%e3%81%9f%e5%ad%90%e3%81%8c%e6%96%b9%e8%a8%80%e3%81%99%e3%81%8e%e3%81%a6%e3%83%84%e3%83%a9%e3%81%99%e3%81%8e%e3%82%8b/"
+  },
+  {
+    "slug": "tari-tari",
+    "title": "TARI TARI",
+    "pref": "関東",
+    "lat": 36.459867,
+    "lng": 139.691137,
+    "url": "https://animetourism88.com/places/tari-tari/"
+  },
+  {
+    "slug": "hakuoki-shinkai",
+    "title": "HAKUOKI SHINKAI",
+    "pref": "北海道•東北",
+    "lat": 43.630584,
+    "lng": 142.330148,
+    "url": "https://animetourism88.com/en/places/hakuoki-shinkai/"
+  },
+  {
+    "slug": "bo-ying-gui-zhen-gai",
+    "title": "薄桜鬼 真改",
+    "pref": "北海道•東北",
+    "lat": 39.136212,
+    "lng": 141.149986,
+    "url": "https://animetourism88.com/places/%e8%96%84%e6%a1%9c%e9%ac%bc-%e7%9c%9f%e6%94%b9/"
+  },
+  {
     "slug": "anime-tokyo-station",
     "title": "ANIME TOKYO STATION",
     "pref": "東京23区",
@@ -88,14 +408,6 @@
     "url": "https://animetourism88.com/en/places/too-many-losing-heroines_draft/"
   },
   {
-    "slug": "ghost-cat-anzu",
-    "title": "Ghost Cat Anzu",
-    "pref": "中部",
-    "lat": 35.032143,
-    "lng": 137.079594,
-    "url": "https://animetourism88.com/en/places/ghost-cat-anzu/"
-  },
-  {
     "slug": "shoshimin-how-to-become-ordinary",
     "title": "SHOSHIMIN: How to become Ordinary",
     "pref": "中部",
@@ -110,30 +422,6 @@
     "lat": 36.459867,
     "lng": 139.691137,
     "url": "https://animetourism88.com/en/places/girls-band-cry_draft/"
-  },
-  {
-    "slug": "a-few-moments-of-cheers",
-    "title": "A Few Moments of Cheers",
-    "pref": "中部",
-    "lat": 35.032143,
-    "lng": 137.079594,
-    "url": "https://animetourism88.com/en/places/a-few-moments-of-cheers-2/"
-  },
-  {
-    "slug": "a-few-moments-of-cheers",
-    "title": "A Few Moments of Cheers",
-    "pref": "中部",
-    "lat": 35.032143,
-    "lng": 137.079594,
-    "url": "https://animetourism88.com/en/places/a-few-moments-of-cheers/"
-  },
-  {
-    "slug": "gamera-rebirth",
-    "title": "GAMERA -Rebirth-.",
-    "pref": "九州•沖縄",
-    "lat": 32.59,
-    "lng": 130.8,
-    "url": "https://animetourism88.com/en/places/gamera-rebirth-2-2/"
   },
   {
     "slug": "bang-dream-series",
@@ -155,8 +443,8 @@
     "slug": "bocchi-the-rock",
     "title": "BOCCHI THE ROCK!",
     "pref": "東京23区",
-    "lat": 35.709026,
-    "lng": 139.731992,
+    "lat": 35.697591,
+    "lng": 139.703523,
     "url": "https://animetourism88.com/en/places/bocchi-the-rock_draft/"
   },
   {
@@ -176,20 +464,12 @@
     "url": "https://animetourism88.com/en/places/otaku-elf/"
   },
   {
-    "slug": "fureru",
-    "title": "FURERU",
-    "pref": "東京23区",
-    "lat": 35.709026,
-    "lng": 139.731992,
-    "url": "https://animetourism88.com/en/places/fureru_draft/"
-  },
-  {
     "slug": "trapezium",
     "title": "Trapezium",
     "pref": "関東",
     "lat": 35.711945,
     "lng": 139.377235,
-    "url": "https://animetourism88.com/en/places/trapezium_draft/"
+    "url": "https://animetourism88.com/en/places/trapezium/"
   },
   {
     "slug": "blue-orchestra",
@@ -205,7 +485,7 @@
     "pref": "関東",
     "lat": 36.459867,
     "lng": 139.691137,
-    "url": "https://animetourism88.com/en/places/my-dress-up-darling_draft/"
+    "url": "https://animetourism88.com/en/places/my-dress-up-darling/"
   },
   {
     "slug": "my-dress-up-darling",
@@ -213,7 +493,7 @@
     "pref": "東京23区",
     "lat": 35.709026,
     "lng": 139.731992,
-    "url": "https://animetourism88.com/en/places/my-dress-up-darling-2_draft/"
+    "url": "https://animetourism88.com/en/places/my-dress-up-darling-2/"
   },
   {
     "slug": "narenare-cheer-for-you",
@@ -230,14 +510,6 @@
     "lat": 36.459867,
     "lng": 139.691137,
     "url": "https://animetourism88.com/en/places/narenare_draft/"
-  },
-  {
-    "slug": "my-oni-girl",
-    "title": "My Oni Girl",
-    "pref": "北海道•東北",
-    "lat": 43.220327,
-    "lng": 142.863474,
-    "url": "https://animetourism88.com/en/places/my-oni-girl/"
   },
   {
     "slug": "xia-mu-you-ren-zhang",
@@ -312,36 +584,12 @@
     "url": "https://animetourism88.com/places/%e3%82%86%e3%82%8b%e3%82%ad%e3%83%a3%e3%83%b3%e3%82%b7%e3%83%aa%e3%83%bc%e3%82%ba-6/"
   },
   {
-    "slug": "hua-kemao-ansutiyan",
-    "title": "化け猫あんずちゃん",
-    "pref": "中部",
-    "lat": 34.969184,
-    "lng": 136.625288,
-    "url": "https://animetourism88.com/places/%e5%8c%96%e3%81%91%e7%8c%ab%e3%81%82%e3%82%93%e3%81%9a%e3%81%a1%e3%82%83%e3%82%93/"
-  },
-  {
     "slug": "xiao-shi-min-sirisu",
     "title": "小市民シリーズ",
     "pref": "中部",
     "lat": 34.969184,
     "lng": 136.625288,
     "url": "https://animetourism88.com/places/%e5%b0%8f%e5%b8%82%e6%b0%91%e3%82%b7%e3%83%aa%e3%83%bc%e3%82%ba/"
-  },
-  {
-    "slug": "shu-fen-jian-noeruwo",
-    "title": "数分間のエールを",
-    "pref": "中部",
-    "lat": 34.969184,
-    "lng": 136.625288,
-    "url": "https://animetourism88.com/places/%e6%95%b0%e5%88%86%e9%96%93%e3%81%ae%e3%82%a8%e3%83%bc%e3%83%ab%e3%82%92-2/"
-  },
-  {
-    "slug": "shu-fen-jian-noeruwo",
-    "title": "数分間のエールを",
-    "pref": "中部",
-    "lat": 34.969184,
-    "lng": 136.625288,
-    "url": "https://animetourism88.com/places/%e6%95%b0%e5%88%86%e9%96%93%e3%81%ae%e3%82%a8%e3%83%bc%e3%83%ab%e3%82%92/"
   },
   {
     "slug": "karusuhantokurai",
@@ -366,14 +614,6 @@
     "lat": 35.660259,
     "lng": 139.701434,
     "url": "https://animetourism88.com/places/%e5%a4%9c%e3%81%ae%e3%82%af%e3%83%a9%e3%82%b2%e3%81%af%e6%b3%b3%e3%81%92%e3%81%aa%e3%81%84/"
-  },
-  {
-    "slug": "hureru",
-    "title": "ふれる。",
-    "pref": "東京23区",
-    "lat": 35.709026,
-    "lng": 139.731992,
-    "url": "https://animetourism88.com/places/%e3%81%b5%e3%82%8c%e3%82%8b%e3%80%82/"
   },
   {
     "slug": "ying-hua-torahesiumu",
@@ -408,14 +648,6 @@
     "url": "https://animetourism88.com/places/%e8%8f%9c%e3%81%aa%e3%82%8c%e8%8a%b1%e3%81%aa%e3%82%8c-2/"
   },
   {
-    "slug": "hao-kitemoxian-inaamanosiyaku",
-    "title": "好きでも嫌いなあまのじゃく",
-    "pref": "北海道•東北",
-    "lat": 39.136212,
-    "lng": 141.149986,
-    "url": "https://animetourism88.com/places/%e5%a5%bd%e3%81%8d%e3%81%a7%e3%82%82%e5%ab%8c%e3%81%84%e3%81%aa%e3%81%82%e3%81%be%e3%81%ae%e3%81%98%e3%82%83%e3%81%8f/"
-  },
-  {
     "slug": "aitorumasuta-mirionraihu",
     "title": "アイドルマスター ミリオンライブ！",
     "pref": "東京23区",
@@ -430,14 +662,6 @@
     "lat": 35.727473,
     "lng": 139.7129,
     "url": "https://animetourism88.com/places/%e3%82%a2%e3%83%8b%e3%83%a1%e6%9d%b1%e4%ba%ac%e3%82%b9%e3%83%86%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3/"
-  },
-  {
-    "slug": "gamera-rebirth",
-    "title": "GAMERA -Rebirth-",
-    "pref": "九州•沖縄",
-    "lat": 32.59,
-    "lng": 130.8,
-    "url": "https://animetourism88.com/places/gamera-rebirth-3/"
   },
   {
     "slug": "do-it-yourself",
@@ -462,22 +686,6 @@
     "lat": 37.452329,
     "lng": 138.852229,
     "url": "https://animetourism88.com/en/places/wataten/"
-  },
-  {
-    "slug": "gamera-rebirth",
-    "title": "GAMERA -Rebirth-",
-    "pref": "東京23区",
-    "lat": 35.709026,
-    "lng": 139.731992,
-    "url": "https://animetourism88.com/places/gamera-rebirth-2/"
-  },
-  {
-    "slug": "gamera-rebirth",
-    "title": "GAMERA -Rebirth-.",
-    "pref": "東京23区",
-    "lat": 35.709026,
-    "lng": 139.731992,
-    "url": "https://animetourism88.com/en/places/gamera-rebirth/"
   },
   {
     "slug": "bang-dream-sirisu",
@@ -523,8 +731,8 @@
     "slug": "sonozhao-seti-eren-xing-halian-wosuru",
     "title": "その着せ替え人形は恋をする",
     "pref": "東京23区",
-    "lat": 35.709026,
-    "lng": 139.731992,
+    "lat": 35.654364,
+    "lng": 139.734612,
     "url": "https://animetourism88.com/places/%e3%81%9d%e3%81%ae%e7%9d%80%e3%81%9b%e6%9b%bf%e3%81%88%e4%ba%ba%e5%bd%a2%e3%81%af%e6%81%8b%e3%82%92%e3%81%99%e3%82%8b-2/"
   },
   {
@@ -553,7 +761,7 @@
   },
   {
     "slug": "clouds-over-goto-yamamoto-nizo-art-museum",
-    "title": "Clouds over Goto YAMAMOTo NIZO ART MUSEUM",
+    "title": "Clouds over Goto YAMAMOTO NIZO ART MUSEUM",
     "pref": "九州•沖縄",
     "lat": 32.59,
     "lng": 130.8,
@@ -566,14 +774,6 @@
     "lat": 33.887421,
     "lng": 130.884987,
     "url": "https://animetourism88.com/en/places/kitakyushu-manga-museum/"
-  },
-  {
-    "slug": "ultraman-series",
-    "title": "ULTRAMAN SERIES",
-    "pref": "九州•沖縄",
-    "lat": 32.59,
-    "lng": 130.8,
-    "url": "https://animetourism88.com/en/places/ultraman-series-3/"
   },
   {
     "slug": "the-aquatope-on-white-sand",
@@ -696,14 +896,6 @@
     "url": "https://animetourism88.com/en/places/evangelion-3/"
   },
   {
-    "slug": "asagiri-no-miko",
-    "title": "Asagiri no Miko",
-    "pref": "中国•四国",
-    "lat": 33.743224,
-    "lng": 133.637531,
-    "url": "https://animetourism88.com/en/places/asagiri-no-miko/"
-  },
-  {
     "slug": "tamayura",
     "title": "TAMAYURA",
     "pref": "中国•四国",
@@ -765,7 +957,7 @@
     "pref": "近畿",
     "lat": 34.641339,
     "lng": 135.562902,
-    "url": "https://animetourism88.com/en/places/%e3%80%8ethe-melancholy-of-haruhi-suzumiya%e3%80%8fseries/"
+    "url": "https://animetourism88.com/en/places/the-melancholy-of-haruhi-suzumiya_series/"
   },
   {
     "slug": "ikkyu-san",
@@ -848,28 +1040,12 @@
     "url": "https://animetourism88.com/en/places/niigata-manga-animation-museum/"
   },
   {
-    "slug": "shikizakura",
-    "title": "SHIKIZAKURA",
-    "pref": "中部",
-    "lat": 35.032143,
-    "lng": 137.079594,
-    "url": "https://animetourism88.com/en/places/shikizakura-2/"
-  },
-  {
     "slug": "laid-back-camp-series",
     "title": "LAID-BACK CAMP series",
     "pref": "中部",
     "lat": 35.032143,
     "lng": 137.079594,
     "url": "https://animetourism88.com/en/places/laid-back-camp-series-5/"
-  },
-  {
-    "slug": "shikizakura",
-    "title": "SHIKIZAKURA",
-    "pref": "中部",
-    "lat": 35.032143,
-    "lng": 137.079594,
-    "url": "https://animetourism88.com/en/places/shikizakura/"
   },
   {
     "slug": "love-live-sunshine",
@@ -968,12 +1144,12 @@
     "url": "https://animetourism88.com/en/places/wolf-children/"
   },
   {
-    "slug": "fudasho-stop-88-tokyo-government-office",
-    "title": "【Fudasho Stop 88】Tokyo Government Office",
+    "slug": "anime-tourism-information-tokyo-government-office",
+    "title": "【Anime Tourism information】Tokyo Government Office",
     "pref": "東京23区",
-    "lat": 35.689481,
-    "lng": 139.691686,
-    "url": "https://animetourism88.com/en/places/%e3%80%90fudasho-stop-88%e3%80%91tokyo-government-office/"
+    "lat": 35.690447,
+    "lng": 139.735904,
+    "url": "https://animetourism88.com/en/places/fudasho-stop-88_tokyo-government-office/"
   },
   {
     "slug": "sanrio-puroland",
@@ -1042,9 +1218,9 @@
   {
     "slug": "love-live-superstar",
     "title": "Love Live! Superstar!!",
-    "pref": "関東",
-    "lat": 36.459867,
-    "lng": 139.691137,
+    "pref": "東京23区",
+    "lat": 35.709026,
+    "lng": 139.731992,
     "url": "https://animetourism88.com/en/places/love-live-superstar-2/"
   },
   {
@@ -1062,14 +1238,6 @@
     "lat": 35.709026,
     "lng": 139.731992,
     "url": "https://animetourism88.com/en/places/hakuoki-shinkai-3/"
-  },
-  {
-    "slug": "dropout-idol-fruit-tart",
-    "title": "Dropout Idol Fruit Tart",
-    "pref": "東京23区",
-    "lat": 35.709026,
-    "lng": 139.731992,
-    "url": "https://animetourism88.com/en/places/dropout-idol-fruit-tart/"
   },
   {
     "slug": "gegege-no-kitaro",
@@ -1106,9 +1274,9 @@
   {
     "slug": "a-certain-scientific-railgun-t",
     "title": "A Certain Scientific Railgun T",
-    "pref": "関東",
-    "lat": 36.459867,
-    "lng": 139.691137,
+    "pref": "東京23区",
+    "lat": 35.709026,
+    "lng": 139.731992,
     "url": "https://animetourism88.com/en/places/a-certain-scientific-railgun-t/"
   },
   {
@@ -1142,14 +1310,6 @@
     "lat": 35.709026,
     "lng": 139.731992,
     "url": "https://animetourism88.com/en/places/5-centimeters-per-second-2/"
-  },
-  {
-    "slug": "ultraman-series",
-    "title": "ULTRAMAN SERIES",
-    "pref": "東京23区",
-    "lat": 35.709026,
-    "lng": 139.731992,
-    "url": "https://animetourism88.com/en/places/ultraman-series-2/"
   },
   {
     "slug": "love-live-nijigasaki-high-school-idol-club",
@@ -1224,12 +1384,12 @@
     "url": "https://animetourism88.com/en/places/saekano-how-to-raise-a-boring-girlfriend-series-2/"
   },
   {
-    "slug": "fudasho-stop-0-narita-international-airport",
-    "title": "【Fudasho Stop 0】Narita International Airport",
+    "slug": "anime-tourism-information-narita-international-airport",
+    "title": "【Anime Tourism Information】Narita International Airport",
     "pref": "関東",
     "lat": 35.770178,
     "lng": 140.384321,
-    "url": "https://animetourism88.com/en/places/%e3%80%90fudasho-stop-0%e3%80%91narita-international-airport/"
+    "url": "https://animetourism88.com/en/places/fudasho-stop-0_narita-international-airport/"
   },
   {
     "slug": "omochanomachi-bandai-museum",
@@ -1440,28 +1600,12 @@
     "url": "https://animetourism88.com/en/places/miyazawa-kenji-dowa-mura/"
   },
   {
-    "slug": "ultraman-series",
-    "title": "ULTRAMAN SERIES",
-    "pref": "北海道•東北",
-    "lat": 43.220327,
-    "lng": 142.863474,
-    "url": "https://animetourism88.com/en/places/ultraman-series/"
-  },
-  {
     "slug": "fisherman-sanpei",
     "title": "Fisherman Sanpei",
     "pref": "北海道•東北",
     "lat": 43.220327,
     "lng": 142.863474,
     "url": "https://animetourism88.com/en/places/fisherman-sanpei/"
-  },
-  {
-    "slug": "backflip",
-    "title": "Backflip!!",
-    "pref": "北海道•東北",
-    "lat": 43.220327,
-    "lng": 142.863474,
-    "url": "https://animetourism88.com/en/places/backflip/"
   },
   {
     "slug": "fleet-girls-collection-kancolle",
@@ -1720,14 +1864,6 @@
     "url": "https://animetourism88.com/places/%e6%b0%b7%e8%8f%93/"
   },
   {
-    "slug": "hakuten",
-    "title": "バクテン!!",
-    "pref": "北海道•東北",
-    "lat": 39.136212,
-    "lng": 141.149986,
-    "url": "https://animetourism88.com/places/%e3%83%90%e3%82%af%e3%83%86%e3%83%b3/"
-  },
-  {
     "slug": "chang-gu-chuan-ting-zi-ji-nian-guan",
     "title": "長谷川町子記念館",
     "pref": "東京23区",
@@ -1801,7 +1937,7 @@
   },
   {
     "slug": "dong-jing-gong-yun-da-xue-shan-bing-animesiyonmiyusiamu",
-    "title": "東京工芸大学  杉並アニメーションミュージアム",
+    "title": "東京工芸大学 杉並アニメーションミュージアム",
     "pref": "東京23区",
     "lat": 35.710572,
     "lng": 139.607794,
@@ -1960,8 +2096,8 @@
     "url": "https://animetourism88.com/places/%e5%a5%b3%e5%ad%90%e9%ab%98%e7%94%9f%e3%81%ae%e7%84%a1%e9%a7%84%e3%81%a5%e3%81%8b%e3%81%84/"
   },
   {
-    "slug": "jin-ji-noju-ren-in-hitamiyusiamu-jin-ji-noju-ren-in-hitamiyusiamu-annex",
-    "title": "進撃の巨人 in HITAミュージアム＆進撃の巨人 in HITAミュージアム ANNEX",
+    "slug": "jin-ji-noju-ren-in-hita-miyusiamu-jin-ji-noju-ren-in-hita-miyusiamu-annex",
+    "title": "進撃の巨人 in HITA ミュージアム＆進撃の巨人 in HITA ミュージアム ANNEX",
     "pref": "九州•沖縄",
     "lat": 33.298612,
     "lng": 130.943572,
@@ -1976,22 +2112,6 @@
     "url": "https://animetourism88.com/places/%e7%99%bd%e3%81%84%e7%a0%82%e3%81%ae%e3%82%a2%e3%82%af%e3%82%a2%e3%83%88%e3%83%bc%e3%83%97/"
   },
   {
-    "slug": "sikisakura",
-    "title": "シキザクラ",
-    "pref": "中部",
-    "lat": 34.969184,
-    "lng": 136.625288,
-    "url": "https://animetourism88.com/places/%e3%82%b7%e3%82%ad%e3%82%b6%e3%82%af%e3%83%a9-2/"
-  },
-  {
-    "slug": "sikisakura",
-    "title": "シキザクラ",
-    "pref": "中部",
-    "lat": 34.969184,
-    "lng": 136.625288,
-    "url": "https://animetourism88.com/places/%e3%82%b7%e3%82%ad%e3%82%b6%e3%82%af%e3%83%a9/"
-  },
-  {
     "slug": "sanriokiyarakutahakuhamoniranto",
     "title": "サンリオキャラクターパークハーモニーランド",
     "pref": "九州•沖縄",
@@ -2003,8 +2123,8 @@
     "slug": "sanriohiyuroranto",
     "title": "サンリオピューロランド",
     "pref": "東京23区",
-    "lat": 35.624512,
-    "lng": 139.429293,
+    "lat": 35.709026,
+    "lng": 139.731992,
     "url": "https://animetourism88.com/places/%e3%82%b5%e3%83%b3%e3%83%aa%e3%82%aa%e3%83%94%e3%83%a5%e3%83%bc%e3%83%ad%e3%83%a9%e3%83%b3%e3%83%89/"
   },
   {
@@ -2064,11 +2184,11 @@
     "url": "https://animetourism88.com/places/%e5%bf%83%e3%81%8c%e5%8f%ab%e3%81%b3%e3%81%9f%e3%81%8c%e3%81%a3%e3%81%a6%e3%82%8b%e3%82%93%e3%81%a0%e3%80%82/"
   },
   {
-    "slug": "kekekenogui-tai-lang-dong-jing-du-diao-bu-shi",
-    "title": "ゲゲゲの鬼太郎（東京都 調布市）",
+    "slug": "kekekenogui-tai-lang",
+    "title": "ゲゲゲの鬼太郎",
     "pref": "東京23区",
-    "lat": 35.650611,
-    "lng": 139.540721,
+    "lat": 35.709026,
+    "lng": 139.731992,
     "url": "https://animetourism88.com/places/%e3%82%b2%e3%82%b2%e3%82%b2%e3%81%ae%e9%ac%bc%e5%a4%aa%e9%83%8e-%e6%9d%b1%e4%ba%ac%e9%83%bd-%e8%aa%bf%e5%b8%83%e5%b8%82/"
   },
   {
@@ -2192,14 +2312,6 @@
     "url": "https://animetourism88.com/places/%e6%8e%a8%e3%81%97%e3%81%8c%e6%ad%a6%e9%81%93%e9%a4%a8%e3%81%84%e3%81%a3%e3%81%a6%e3%81%8f%e3%82%8c%e3%81%9f%e3%82%89%e6%ad%bb%e3%81%ac/"
   },
   {
-    "slug": "otikohorehurututaruto",
-    "title": "おちこぼれフルーツタルト",
-    "pref": "東京23区",
-    "lat": 35.709026,
-    "lng": 139.731992,
-    "url": "https://animetourism88.com/places/%e3%81%8a%e3%81%a1%e3%81%93%e3%81%bc%e3%82%8c%e3%83%95%e3%83%ab%e3%83%bc%e3%83%84%e3%82%bf%e3%83%ab%e3%83%88/"
-  },
-  {
     "slug": "euankerion-sirisu",
     "title": "『エヴァンゲリオン』シリーズ",
     "pref": "中国•四国",
@@ -2222,30 +2334,6 @@
     "lat": 36.459867,
     "lng": 139.691137,
     "url": "https://animetourism88.com/places/%e3%82%a8%e3%83%b4%e3%82%a1%e3%83%b3%e3%82%b2%e3%83%aa%e3%82%aa%e3%83%b3-%e3%82%b7%e3%83%aa%e3%83%bc%e3%82%ba/"
-  },
-  {
-    "slug": "urutoramansirisu",
-    "title": "「ウルトラマンシリーズ」",
-    "pref": "九州•沖縄",
-    "lat": 32.59,
-    "lng": 130.8,
-    "url": "https://animetourism88.com/places/%e3%82%a6%e3%83%ab%e3%83%88%e3%83%a9%e3%83%9e%e3%83%b3%e3%82%b7%e3%83%aa%e3%83%bc%e3%82%ba-%e9%87%91%e5%9f%8e%e5%93%b2%e5%a4%ab%e8%b3%87%e6%96%99%e9%a4%a8/"
-  },
-  {
-    "slug": "urutoramansirisu",
-    "title": "「ウルトラマンシリーズ」",
-    "pref": "東京23区",
-    "lat": 35.709026,
-    "lng": 139.731992,
-    "url": "https://animetourism88.com/places/%e3%82%a6%e3%83%ab%e3%83%88%e3%83%a9%e3%83%9e%e3%83%b3%e3%82%b7%e3%83%aa%e3%83%bc%e3%82%ba-%e3%82%a6%e3%83%ab%e3%83%88%e3%83%a9%e3%83%9e%e3%83%b3%e5%95%86%e5%ba%97%e8%a1%97/"
-  },
-  {
-    "slug": "urutoramansirisu",
-    "title": "「ウルトラマンシリーズ」",
-    "pref": "北海道•東北",
-    "lat": 39.136212,
-    "lng": 141.149986,
-    "url": "https://animetourism88.com/places/%e3%82%a6%e3%83%ab%e3%83%88%e3%83%a9%e3%83%9e%e3%83%b3%e3%82%b7%e3%83%aa%e3%83%bc%e3%82%ba-%e5%86%86%e8%b0%b7%e8%8b%b1%e4%ba%8c%e6%b0%8f%e7%94%9f%e8%aa%95%e3%81%ae%e5%9c%b0/"
   },
   {
     "slug": "shi-nosen-wan-hua-guan",
@@ -2304,14 +2392,6 @@
     "url": "https://animetourism88.com/places/%e8%92%bc%e3%81%ae%e5%bd%bc%e6%96%b9%e3%81%ae%e3%83%95%e3%82%a9%e3%83%bc%e3%83%aa%e3%82%ba%e3%83%a0/"
   },
   {
-    "slug": "zhao-wu-nowu-nu",
-    "title": "朝霧の巫女",
-    "pref": "中国•四国",
-    "lat": 33.743224,
-    "lng": 133.637531,
-    "url": "https://animetourism88.com/places/%e6%9c%9d%e9%9c%a7%e3%81%ae%e5%b7%ab%e5%a5%b3/"
-  },
-  {
     "slug": "amakamiss-sirisu",
     "title": "『アマガミSS』シリーズ",
     "pref": "関東",
@@ -2336,11 +2416,11 @@
     "url": "https://animetourism88.com/places/%e3%82%a2%e3%83%b3%e3%82%b4%e3%83%ab%e3%83%a2%e3%82%a2%e5%85%83%e5%af%87%e5%90%88%e6%88%a6%e8%a8%98/"
   },
   {
-    "slug": "kekekenogui-tai-lang-niao-qu-xian-jing-gang-shi",
-    "title": "ゲゲゲの鬼太郎 （鳥取県 境港市）",
+    "slug": "kekekenogui-tai-lang",
+    "title": "ゲゲゲの鬼太郎",
     "pref": "中国•四国",
-    "lat": 35.539653,
-    "lng": 133.23162,
+    "lat": 34.826374,
+    "lng": 133.070314,
     "url": "https://animetourism88.com/places/%e3%82%b2%e3%82%b2%e3%82%b2%e3%81%ae%e9%ac%bc%e5%a4%aa%e9%83%8e-%e9%b3%a5%e5%8f%96%e7%9c%8c-%e5%a2%83%e6%b8%af%e5%b8%82/"
   },
   {
@@ -2416,14 +2496,6 @@
     "url": "https://animetourism88.com/places/%e3%83%a9%e3%83%96%e3%83%a9%e3%82%a4%e3%83%96%e3%82%b5%e3%83%b3%e3%82%b7%e3%83%a3%e3%82%a4%e3%83%b3/"
   },
   {
-    "slug": "hakuoki-shinkai",
-    "title": "HAKUOKI SHINKAI",
-    "pref": "北海道•東北",
-    "lat": 43.630584,
-    "lng": 142.330148,
-    "url": "https://animetourism88.com/en/places/hakuoki-shinkai/"
-  },
-  {
     "slug": "se-tukushi-jie-noming-ri-kara",
     "title": "色づく世界の明日から",
     "pref": "九州•沖縄",
@@ -2462,13 +2534,5 @@
     "lat": 36.459867,
     "lng": 139.691137,
     "url": "https://animetourism88.com/places/%e3%82%ac%e3%83%bc%e3%83%ab%e3%82%ba%e3%83%91%e3%83%b3%e3%83%84%e3%82%a1%e3%83%bc-%e6%9c%80%e7%b5%82%e7%ab%a0/"
-  },
-  {
-    "slug": "bo-ying-gui-zhen-gai",
-    "title": "薄桜鬼 真改",
-    "pref": "北海道•東北",
-    "lat": 39.136212,
-    "lng": 141.149986,
-    "url": "https://animetourism88.com/places/%e8%96%84%e6%a1%9c%e9%ac%bc-%e7%9c%9f%e6%94%b9/"
   }
 ]
