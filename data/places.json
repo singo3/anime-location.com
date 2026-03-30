@@ -1,5 +1,37 @@
 [
   {
+    "slug": "tari-tari",
+    "title": "TARI TARI",
+    "pref": "関東",
+    "lat": 36.459867,
+    "lng": 139.691137,
+    "url": "https://animetourism88.com/en/places/tari-tari-2/"
+  },
+  {
+    "slug": "non-non-biyori-vacation",
+    "title": "Non Non Biyori Vacation",
+    "pref": "九州•沖縄",
+    "lat": 32.59,
+    "lng": 130.8,
+    "url": "https://animetourism88.com/en/places/non-non-biyori-vacation/"
+  },
+  {
+    "slug": "oreimo",
+    "title": "Oreimo",
+    "pref": "関東",
+    "lat": 36.459867,
+    "lng": 139.691137,
+    "url": "https://animetourism88.com/en/places/oreimo/"
+  },
+  {
+    "slug": "fafner-in-the-azure-series",
+    "title": "『Fafner in the Azure』Series",
+    "pref": "中国•四国",
+    "lat": 33.743224,
+    "lng": 133.637531,
+    "url": "https://animetourism88.com/en/places/%e3%80%8efafner-in-the-azure%e3%80%8fseries/"
+  },
+  {
     "slug": "mono",
     "title": "mono",
     "pref": "中部",
@@ -473,7 +505,7 @@
   },
   {
     "slug": "trapezium",
-    "title": "Trapezium",
+    "title": "trapezium",
     "pref": "関東",
     "lat": 35.71195,
     "lng": 139.377237,
@@ -1355,8 +1387,8 @@
     "slug": "love-live",
     "title": "Love Live!",
     "pref": "東京23区",
-    "lat": 35.709026,
-    "lng": 139.731992,
+    "lat": 35.698562,
+    "lng": 139.772628,
     "url": "https://animetourism88.com/en/places/love-live/"
   },
   {
@@ -1587,8 +1619,8 @@
     "slug": "yokote-city-masuda-manga-museum",
     "title": "Yokote City Masuda Manga Museum",
     "pref": "北海道•東北",
-    "lat": 39.313828,
-    "lng": 140.566588,
+    "lat": 39.202593,
+    "lng": 140.547979,
     "url": "https://animetourism88.com/en/places/yokote-city-masuda-manga-museum/"
   },
   {
@@ -1627,8 +1659,8 @@
     "slug": "love-live-sunshine",
     "title": "Love Live! Sunshine!!",
     "pref": "北海道•東北",
-    "lat": 39.136212,
-    "lng": 141.149986,
+    "lat": 43.220327,
+    "lng": 142.863474,
     "url": "https://animetourism88.com/en/places/love-live-sunshine/"
   },
   {
@@ -2123,8 +2155,8 @@
     "slug": "sanriokiyarakutahakuhamoniranto",
     "title": "サンリオキャラクターパークハーモニーランド",
     "pref": "九州•沖縄",
-    "lat": 33.400159,
-    "lng": 131.5468,
+    "lat": 32.59,
+    "lng": 130.8,
     "url": "https://animetourism88.com/places/%e3%82%b5%e3%83%b3%e3%83%aa%e3%82%aa%e3%82%ad%e3%83%a3%e3%83%a9%e3%82%af%e3%82%bf%e3%83%bc%e3%83%91%e3%83%bc%e3%82%af%e3%83%8f%e3%83%bc%e3%83%a2%e3%83%8b%e3%83%bc%e3%83%a9%e3%83%b3%e3%83%89/"
   },
   {
@@ -2171,8 +2203,8 @@
     "slug": "wu-dao-noyun-shan-ben-er-san-mei-shu-guan",
     "title": "五島の雲 山本二三美術館",
     "pref": "九州•沖縄",
-    "lat": 32.59,
-    "lng": 130.8,
+    "lat": 32.695178,
+    "lng": 128.839974,
     "url": "https://animetourism88.com/places/%e4%ba%94%e5%b3%b6%e3%81%ae%e9%9b%b2-%e5%b1%b1%e6%9c%ac%e4%ba%8c%e4%b8%89%e7%be%8e%e8%a1%93%e9%a4%a8/"
   },
   {
