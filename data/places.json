@@ -208,6 +208,22 @@
     "url": "https://animetourism88.com/en/places/insomniacs-after-school/"
   },
   {
+    "slug": "maebashi-witches",
+    "title": "Maebashi Witches",
+    "pref": "関東",
+    "lat": 36.389467,
+    "lng": 139.063413,
+    "url": "https://animetourism88.com/en/places/maebashi-witches/"
+  },
+  {
+    "slug": "grand-blue-dreaming",
+    "title": "Grand Blue Dreaming",
+    "pref": "中部",
+    "lat": 36.204824,
+    "lng": 138.252924,
+    "url": "https://animetourism88.com/en/places/grand-blue-dreaming/"
+  },
+  {
     "slug": "food-for-the-soul",
     "title": "FOOD FOR THE SOUL",
     "pref": "関東",
@@ -1587,8 +1603,8 @@
     "slug": "5-centimeters-per-second",
     "title": "5 Centimeters per Second",
     "pref": "東京23区",
-    "lat": 35.646955,
-    "lng": 139.746043,
+    "lat": 35.709026,
+    "lng": 139.731992,
     "url": "https://animetourism88.com/en/places/5-centimeters-per-second-2/"
   },
   {
@@ -1787,8 +1803,8 @@
     "slug": "yama-no-susume-next-summit",
     "title": "Yama no susume Next Summit",
     "pref": "関東",
-    "lat": 36.459867,
-    "lng": 139.691137,
+    "lat": 36.173873,
+    "lng": 140.386904,
     "url": "https://animetourism88.com/en/places/yama-no-susume-next-summit/"
   },
   {
