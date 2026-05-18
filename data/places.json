@@ -192,6 +192,22 @@
     "url": "https://animetourism88.com/en/places/this-monster-wants-to-eat-me/"
   },
   {
+    "slug": "summer-pockets",
+    "title": "Summer Pockets",
+    "pref": "中国•四国",
+    "lat": 33.743224,
+    "lng": 133.637531,
+    "url": "https://animetourism88.com/en/places/summer-pockets-4/"
+  },
+  {
+    "slug": "summer-pockets",
+    "title": "Summer Pockets",
+    "pref": "中国•四国",
+    "lat": 33.743224,
+    "lng": 133.637531,
+    "url": "https://animetourism88.com/en/places/summer-pockets-3/"
+  },
+  {
     "slug": "turkey",
     "title": "Turkey!",
     "pref": "中部",
@@ -645,7 +661,7 @@
     "pref": "九州•沖縄",
     "lat": 32.59,
     "lng": 130.8,
-    "url": "https://animetourism88.com/en/places/natsumes-book-of-friends_draft/"
+    "url": "https://animetourism88.com/en/places/natsumes-book-of-friends/"
   },
   {
     "slug": "the-colors-within",
@@ -755,8 +771,8 @@
     "slug": "otaku-elf",
     "title": "Otaku Elf",
     "pref": "東京23区",
-    "lat": 35.562084,
-    "lng": 139.716936,
+    "lat": 35.709026,
+    "lng": 139.731992,
     "url": "https://animetourism88.com/en/places/otaku-elf/"
   },
   {
@@ -987,8 +1003,8 @@
     "slug": "bang-dream-sirisu",
     "title": "『BanG Dream!』シリーズ",
     "pref": "東京23区",
-    "lat": 35.670418,
-    "lng": 139.835806,
+    "lat": 35.709026,
+    "lng": 139.731992,
     "url": "https://animetourism88.com/places/%e3%83%90%e3%83%b3%e3%83%89%e3%83%aa%e3%82%b7%e3%83%aa%e3%83%bc%e3%82%ba-2/"
   },
   {
@@ -1027,8 +1043,8 @@
     "slug": "sonozhao-seti-eren-xing-halian-wosuru",
     "title": "その着せ替え人形は恋をする",
     "pref": "東京23区",
-    "lat": 35.709026,
-    "lng": 139.731992,
+    "lat": 35.654364,
+    "lng": 139.734612,
     "url": "https://animetourism88.com/places/%e3%81%9d%e3%81%ae%e7%9d%80%e3%81%9b%e6%9b%bf%e3%81%88%e4%ba%ba%e5%bd%a2%e3%81%af%e6%81%8b%e3%82%92%e3%81%99%e3%82%8b-2/"
   },
   {
@@ -1707,8 +1723,8 @@
     "slug": "evangelion-series",
     "title": "&#8220;EVANGELION&#8221; Series",
     "pref": "関東",
-    "lat": 35.660599,
-    "lng": 139.738995,
+    "lat": 36.459867,
+    "lng": 139.691137,
     "url": "https://animetourism88.com/en/places/evangelion/"
   },
   {
@@ -2075,8 +2091,8 @@
     "slug": "shui-mu-sikeruroto",
     "title": "水木しげるロード",
     "pref": "中国•四国",
-    "lat": 33.743224,
-    "lng": 133.637531,
+    "lat": 34.826374,
+    "lng": 133.070314,
     "url": "https://animetourism88.com/places/%e6%b0%b4%e6%9c%a8%e3%81%97%e3%81%92%e3%82%8b%e3%83%ad%e3%83%bc%e3%83%89/"
   },
   {
@@ -2595,8 +2611,8 @@
     "slug": "omotiyanomatihantaimiyusiamu",
     "title": "おもちゃのまちバンダイミュージアム",
     "pref": "関東",
-    "lat": 36.465514,
-    "lng": 139.838208,
+    "lat": 36.465769,
+    "lng": 139.838287,
     "url": "https://animetourism88.com/places/%e3%81%8a%e3%82%82%e3%81%a1%e3%82%83%e3%81%ae%e3%81%be%e3%81%a1%e3%83%90%e3%83%b3%e3%83%80%e3%82%a4%e3%83%9f%e3%83%a5%e3%83%bc%e3%82%b8%e3%82%a2%e3%83%a0/"
   },
   {
@@ -2771,8 +2787,8 @@
     "slug": "bang-dream-sirisu",
     "title": "『BanG Dream!』シリーズ",
     "pref": "東京23区",
-    "lat": 35.670418,
-    "lng": 139.835806,
+    "lat": 35.709026,
+    "lng": 139.731992,
     "url": "https://animetourism88.com/places/%e3%83%90%e3%83%b3%e3%83%89%e3%83%aa%e3%82%b7%e3%83%aa%e3%83%bc%e3%82%ba-1/"
   },
   {
